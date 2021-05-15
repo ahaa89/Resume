@@ -27,9 +27,13 @@
 + فارسی
 + English
 
-### Favorites
 
+### Resume
 ---
++ Capital Market
++ Call Center
++ Customer relationship management
++ Graphic Design
 
 
 
