@@ -36,4 +36,4 @@
 
 
 ---
-### [Persian Resume] (Resume-fa.md)
+### [[Persian Resume](https://github.com/ahaa89/Resume/blob/main/resume-fa.md)]
