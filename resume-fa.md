@@ -40,4 +40,4 @@ _ مهندسی سخت افزار
 + طراحی گرافیک
 
 
-### [Eng Resume](https://github.com/ahaa89/Resume/blob/main/index.md)]
+### [Eng Resume](https://github.com/ahaa89/Resume/blob/main/index.md)
