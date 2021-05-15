@@ -33,7 +33,7 @@ _ مهندسی سخت افزار
 
 ### سوابق کاری
 
----
+---https://github.com/ahaa89/Resume/blob/main/index.md
 + بازار سرمایه
 + Call Center
 + مدیریت ارتباط با مشتریان
