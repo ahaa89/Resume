@@ -4,7 +4,7 @@
 + Name: Amir Hossein
 + Surname: Asadi
 + Date of birth: 1989 / August / 22
-+ Master of Software Engineering student
++ Master of Software Engineering
 
 + Location: Tehran, Iran
 
@@ -17,10 +17,6 @@
 + Call Center
 
 
-### education
-
----
-+ Bachelor: Hardware Engineering
 ### Language
 
 ---
@@ -40,4 +36,3 @@
 
 
 ---
-### [[Persian Resume](https://github.com/ahaa89/Resume/blob/main/resume-fa.md)]
